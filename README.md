@@ -1,4 +1,4 @@
-# STTI - Payload - Generator - JAVA
+# SSTI - Payload - Generator - JAVA
 Generator Payload
 
 Esta herramienta fue creada para generar un payload usando la información de 
